@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Victoria</h1>
-<h3 align="center">A passionate Frontend Developer from Russia ❤️‍🔥</h3>
+<h1 align="center">Hello 👋 , I'm Victoria</h1>
+<h3 align="center">A passionate Front End Developer from Russia ❤️‍🔥</h3>
 
 <p align="left"> <img src="https://img.shields.io/github/followers/victoriadanilenko?color=rgb%2815%2C%20127%2C%2030%29&style=for-the-badge" alt="victoriadanilenko" /> </p>
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js**
 
 - 📫 You can reach me via **[e-mail](mailto:victoriadanilenko.it@gmail.com)**
 
@@ -18,18 +18,14 @@
 
 
 <p align="left">
+            <a href="http://t.me/vifrontender" 
+              target="blanck"><img src="./telegram.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/victoria-d-1060181bb/"
               target="blanck"
-              >LinkedIn</a
-            >
-            <a href="http://t.me/vifrontender" 
-              target="blanck"
-              >Telegram</a
-            >
+              ><img src="./linkedin.svg" alt="html5" width="38" height="40"/></a>
             <a href="https://join.skype.com/invite/LlcFaPX4cavJ"
-              target="blanck"
-              >Skype</a
-            >
+              target="blanck">
+              <img src="./skype.svg" alt="html5" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
