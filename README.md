@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋 , I'm Victoria</h1>
 <h3 align="center">A passionate Front End Developer from Russia ❤️‍🔥</h3>
 
-<p align="left"> <img src="https://img.shields.io/github/followers/victoriadanilenko?color=rgb%2815%2C%20127%2C%2030%29&style=for-the-badge" alt="victoriadanilenko" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/followers/victoriadanilenko?color=green&style=for-the-badge" alt="victoriadanilenko" /> </p>
+
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -11,7 +12,7 @@
 
 - 📄 Know about my experiences **[CV](https://victoriadanilenko.github.io/CV/)**
 
-- ⚡ Fun fact ***My last meal on Earth would be... Tiramisù! :innocent:***
+- ⚡ Fun fact **My last meal on Earth would be... Tiramisù! :innocent:**
 
 
 <h3 align="left">Connect with me:</h3>
