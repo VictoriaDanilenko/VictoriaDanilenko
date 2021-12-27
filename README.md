@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Front End Developer from Russia ❤️‍🔥</h3>
 
 <!-- <p align="left"> <img src="https://img.shields.io/github/followers/victoriadanilenko?color=green&?style=for-the-badge&logo=appveyor" alt="victoriadanilenko" /> </p> -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=Profile%20views&color=green&" alt="victoriadanilenko" /> </p>
-
 
 - 🌱 I’m currently learning **Node.js**
 
