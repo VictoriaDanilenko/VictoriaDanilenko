@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 , I'm Victoria</h1> 
 <h3 align="center">A passionate Front End Developer from Russia ❤️‍🔥</h3>
-<divs tyle="display: inline">
+<div>
 <p align="left"> <img src="https://img.shields.io/github/followers/victoriadanilenko?style=flat-square&logo=appveyor&color=pink" alt="victoriadanilenko" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=profile+views&style=flat-square&color=yellow" alt="victoriadanilenko" /> </p> 
 </div>
@@ -19,7 +19,7 @@
 
 <!-- <p align="left">
             <a href="http://t.me/vifrontender" 
-              target="_blank"><img src="./telegram.svg" alt="html5" width="40" height="40"/></a>
+              target="_blank"><img src="./telegram.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.linkedin.com/in/victoria-d-1060181bb/"
               target="_blank"
               ><img src="./linkedin.svg" alt="html5" width="38" height="40"/></a>
