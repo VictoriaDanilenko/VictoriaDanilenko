@@ -13,22 +13,8 @@
 
 - ⚡ Fun fact **My last meal on Earth would be... Tiramisù! :innocent:**
 
-
-<h3 align="left">Connect with me:</h3>
-
-
-<p align="left">
-            <a href="http://t.me/vifrontender" 
-              target="_blank"><img src="./telegram.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.linkedin.com/in/victoria-d-1060181bb/"
-              target="_blank"
-              ><img src="./linkedin.svg" alt="html5" width="38" height="40"/></a>
-            <a href="https://join.skype.com/invite/LlcFaPX4cavJ"
-              target="_blank">
-              <img src="./skype.svg" alt="html5" width="40" height="40"/></a>
-</p>
-
 <div>
+<h3 align="left">Connect with me:</h3>
  <a href="http://t.me/vifrontender" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
  <a href="https://discord.gg/vifrontender#1876" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href = "mailto:victoriadanilenko.it@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -56,7 +42,7 @@
 <a href="https://www.npmjs.com/" target="_blank"> <img src="./npm.svg" alt="webpack" width="40" height="40"/> </a>  
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://https://www.sap.com/cis/index.html" target="_blank"> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="photoshop"/></a></p>          
+<a href="https://www.sap.com" target="_blank"> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="photoshop"/></a></p>          
 </div>
 
 <div>
