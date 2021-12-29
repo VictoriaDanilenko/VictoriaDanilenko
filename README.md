@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 , I'm Victoria</h1>
+<h1 align="center">Hello 👋 , I'm Victoria</h1> 
 <h3 align="center">A passionate Front End Developer from Russia ❤️‍🔥</h3>
 
 <!-- <p align="left"> <img src="https://img.shields.io/github/followers/victoriadanilenko?color=green&?style=for-the-badge&logo=appveyor" alt="victoriadanilenko" /> </p> -->
@@ -49,9 +49,11 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriadanilenko&show_icons=true&theme=calm&layout=compact" alt="victoriadanilenko" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriadanilenko&show_icons=true&theme=calm" alt="victoriadanilenko" /></p>
 
 ![snake gif](https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/output/github-contribution-grid-snake.gif)
 
+</div>
