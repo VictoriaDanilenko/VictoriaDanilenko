@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<!-- <p align="left">
+<p align="left">
             <a href="http://t.me/vifrontender" 
               target="_blank"><img src="./telegram.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.linkedin.com/in/victoria-d-1060181bb/"
@@ -26,7 +26,7 @@
             <a href="https://join.skype.com/invite/LlcFaPX4cavJ"
               target="_blank">
               <img src="./skype.svg" alt="html5" width="40" height="40"/></a>
-</p> -->
+</p>
 
 <div>
  <a href="http://t.me/vifrontender" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
