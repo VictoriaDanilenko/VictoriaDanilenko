@@ -56,7 +56,7 @@
 <a href="https://www.npmjs.com/" target="_blank"> <img src="./npm.svg" alt="webpack" width="40" height="40"/> </a>  
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-<a href="https://https://www.sap.com/cis/index.html/en" target="_blank"> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="photoshop"/></a></p>          
+<a href="https://https://www.sap.com/en" target="_blank"> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="photoshop"/></a></p>          
 </div>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriadanilenko&show_icons=true&theme=calm&layout=compact" alt="victoriadanilenko" /></p>
