@@ -1,11 +1,10 @@
 <h1 align="center">Hello 👋 , I'm Victoria</h1> 
 <h3 align="center">A passionate Front End Developer from Russia ❤️‍🔥</h3>
-<div>
-<p align="left"> <img src="https://img.shields.io/github/followers/victoriadanilenko?style=for-the-badge&logo=appveyor&color=green" alt="victoriadanilenko" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=PROFILE+VIEWS&style=flat-square" alt="victoriadanilenko" /> </p>          
-        
-
+<divs tyle="display: inline">
+<p align="left"> <img src="https://img.shields.io/github/followers/victoriadanilenko?style=flat-square&logo=appveyor&color=pink" alt="victoriadanilenko" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=profile+views&style=flat-square&color=yellow" alt="victoriadanilenko" /> </p> 
 </div>
+
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
