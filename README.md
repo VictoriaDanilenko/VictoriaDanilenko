@@ -16,7 +16,6 @@
 <div>
 <h3 align="left">Connect with me:</h3>
  <a href="http://t.me/vifrontender" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
- <a href="https://discord.gg/vifrontender#1876" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href = "mailto:victoriadanilenko.it@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/victoria-d-1060181bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>       
   <a href="https://join.skype.com/invite/LlcFaPX4cavJ" target="_blank"><img src="https://img.shields.io/badge/Skype-019DDC?style=for-the-badge&logo=skype&logoColor=white"></a> 
