@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋 , I'm Victoria</h1> 
 <h3 align="center">A passionate Front End Developer from Russia ❤️‍🔥</h3>
+<div>
+<p align="left"> <img src="https://img.shields.io/github/followers/victoriadanilenko?style=for-the-badge&logo=appveyor&color=green" alt="victoriadanilenko" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=PROFILE+VIEWS&style=flat-square" alt="victoriadanilenko" /> </p>          
+        
 
-<!-- <p align="left"> <img src="https://img.shields.io/github/followers/victoriadanilenko?color=green&?style=for-the-badge&logo=appveyor" alt="victoriadanilenko" /> </p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=Profile%20views&color=green&" alt="victoriadanilenko" /> </p>
-
+</div>
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
-
-- 📫 You can reach me via **[e-mail](mailto:victoriadanilenko.it@gmail.com)**
 
 - 📄 Know about my experiences **[CV](https://victoriadanilenko.github.io/CV/)**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<p align="left">
+<!-- <p align="left">
             <a href="http://t.me/vifrontender" 
               target="_blank"><img src="./telegram.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/victoria-d-1060181bb/"
@@ -27,8 +27,17 @@
             <a href="https://join.skype.com/invite/LlcFaPX4cavJ"
               target="_blank">
               <img src="./skype.svg" alt="html5" width="40" height="40"/></a>
-</p>
+</p> -->
 
+<div style="display: inline"> 
+ 
+  <a href="http://t.me/vifrontender" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/vifrontender#1876" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:victoriadanilenko.it@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victoria-d-1060181bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
+  <a href="https://join.skype.com/invite/LlcFaPX4cavJ" target="_blank"><img src="https://img.shields.io/badge/Skype-019DDC?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a> 
+</div>
+<div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -48,7 +57,8 @@
 <a href="https://www.npmjs.com/" target="_blank"> <img src="./npm.svg" alt="webpack" width="40" height="40"/> </a>  
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="photoshop"/> </a> </p>          
+</div>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriadanilenko&show_icons=true&theme=calm&layout=compact" alt="victoriadanilenko" /></p>
 
