@@ -6,13 +6,15 @@
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=profile+views&style=flat-square&color=yellowgreen" alt="victoriadanilenko" /></p> -->
 
 <p align="left">
-<!--  <img src="https://badges.pufler.dev/visits/victoriadanilenko/victoriadanilenko"/>  -->
- <img src="https://badges.pufler.dev/years/victoriadanilenko"/>
- <img src="https://badges.pufler.dev/repos/victoriadanilenko"/>
- <img src="https://badges.pufler.dev/commits/monthly/victoriadanilenko" />
+<img src="https://badges.pufler.dev/visits/victoriadanilenko/victoriadanilenko"/>
+<img src="https://badges.pufler.dev/years/victoriadanilenko"/>
+<img src="https://badges.pufler.dev/repos/victoriadanilenko"/>
+<img src="https://badges.pufler.dev/commits/monthly/victoriadanilenko" />
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&color=green)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 - 🌱 I’m currently learning **Node.js**
@@ -60,13 +62,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=victoriadanilenko&show_icons=true&theme=calm" alt="victoriadanilenko" /></p>   
 </div>
 
-
 <!-- <h2 align="left">My Contribution Graph<img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2> -->
   
 ![snake gif](https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/output/github-contribution-grid-snake.gif)
 
-<img align="left" src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+<!-- <img align="left" src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"> -->
 
 <!-- <h2 align="left">My Contribution Graph<img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2> -->
