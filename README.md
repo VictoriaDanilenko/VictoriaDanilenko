@@ -1,21 +1,18 @@
-</p align="center">
-<img src="https://github.com/victoriadanilenko/victoriadanilenko/blob/main/images/newbg(1).png" />
+<!-- </p align="center">
+<img src="https://github.com/victoriadanilenko/victoriadanilenko/blob/main/images/newbg(1).png" /> -->
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm Victoria</h1> 
 <h3 align="center">A passionate Front End Developer from Russia ❤️‍🔥</h3>
-<div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=profile+views&style=flat-square&color=yellowgreen" alt="victoriadanilenko" /></p>
- 
-<!-- <p align="center">
- <img src="https://badges.pufler.dev/visits/victoriadanilenko/victoriadanilenko"/> 
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=profile+views&style=flat-square&color=yellowgreen" alt="victoriadanilenko" /></p> -->
+
+<p align="left">
+<!--  <img src="https://badges.pufler.dev/visits/victoriadanilenko/victoriadanilenko"/>  -->
  <img src="https://badges.pufler.dev/years/victoriadanilenko"/>
- <img src="https://badges.pufler.dev/repos/victoriadanilenko"/>
+ 
  <img src="https://badges.pufler.dev/commits/monthly/victoriadanilenko" />
-</p> -->
-</div>
+</p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -59,13 +56,17 @@
 <div style="display:inline-block">
 <h3 align="left">My Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriadanilenko&show_icons=true&theme=calm&layout=compact" alt="victoriadanilenko" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=victoriadanilenko&show_icons=true&theme=calm" alt="victoriadanilenko" /></p>
-<!-- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victoriadanilenko)](https://git.io/streak-stats) -->
- 
- <div style="display:inline-block">
- <h3 align="left">My Contribution Graph:</h3>
- </div>
- 
-![snake gif](https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/output/github-contribution-grid-snake.gif)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=victoriadanilenko&show_icons=true&theme=calm" alt="victoriadanilenko" /></p>   
 </div>
+
+
+<!-- <h2 align="left">My Contribution Graph<img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2> -->
+  
+![snake gif](https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/output/github-contribution-grid-snake.gif)
+
+<img align="left" src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+
+<!-- <h2 align="left">My Contribution Graph<img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2> -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victoriadanilenko)](https://git.io/streak-stats) -->
