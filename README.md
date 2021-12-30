@@ -1,5 +1,6 @@
-<!-- </p align="center">
-<img src="https://github.com/victoriadanilenko/victoriadanilenko/blob/main/images/newbg(1).png" /> -->
+</p align="center">
+<img src="https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/main/Screenshot-1-1210x642.png" />
+
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm Victoria</h1> 
 <h3 align="center">A passionate Front End Developer from Russia ❤️‍🔥</h3>
