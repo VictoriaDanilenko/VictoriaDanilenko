@@ -2,8 +2,19 @@
 <h3 align="center">A passionate Front End Developer from Russia ❤️‍🔥</h3>
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=profile+views&style=flat-square&color=yellowgreen" alt="victoriadanilenko" /></p>
-<!-- <p align="left"> <img src="https://img.shields.io/github/followers/victoriadanilenko?style=flat-square&logo=appveyor&color=pink" alt="victoriadanilenko" /></p>  -->
+ 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/victoriadanilenko/victoriadanilenko"/> 
+ <!-- <img src="https://badges.pufler.dev/years/victoriadanilenko"/> -->
+ <img src="https://badges.pufler.dev/repos/victoriadanilenko"/>
+ <img src="https://badges.pufler.dev/commits/monthly/victoriadanilenko" />
+
+</p>
 </div>
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -14,15 +25,15 @@
 - ⚡ Fun fact **My last meal on Earth would be... Tiramisù! :innocent:**
 
 <div>
-<h3 align="left">Connect with me:</h3>
- <a href = "mailto:victoriadanilenko.it@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<h3 align="center">Reach me on:</h3> 
+ <a href = "mailto:victoriadanilenko.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="http://t.me/vifrontender" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/victoria-d-1060181bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>       
   <a href="https://join.skype.com/invite/LlcFaPX4cavJ" target="_blank"><img src="https://img.shields.io/badge/Skype-019DDC?style=for-the-badge&logo=skype&logoColor=white"></a> 
 </div>
 
 <div style="display: inline_block">
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Technology Stack:</h3>
 <p align="left"> 
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -45,8 +56,13 @@
 </div>
 
 <div style="display:inline-block">
+<h3 align="center">My Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriadanilenko&show_icons=true&theme=calm&layout=compact" alt="victoriadanilenko" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriadanilenko&show_icons=true&theme=calm" alt="victoriadanilenko" /></p>
 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victoriadanilenko)](https://git.io/streak-stats)
+ 
+ <h3 align="center">My Contribution Graph:</h3>
+ 
 ![snake gif](https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/output/github-contribution-grid-snake.gif)
 </div>
