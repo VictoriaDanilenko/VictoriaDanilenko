@@ -8,11 +8,12 @@
 <p align="left">
 <!--  <img src="https://badges.pufler.dev/visits/victoriadanilenko/victoriadanilenko"/>  -->
  <img src="https://badges.pufler.dev/years/victoriadanilenko"/>
- 
+ <img src="https://badges.pufler.dev/repos/victoriadanilenko"/>
  <img src="https://badges.pufler.dev/commits/monthly/victoriadanilenko" />
 </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 - 🌱 I’m currently learning **Node.js**
 
