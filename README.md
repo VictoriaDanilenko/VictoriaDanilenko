@@ -44,7 +44,7 @@
 <a href="https://www.sap.com" target="_blank"> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="photoshop"/></a></p>          
 </div>
 
-<div>
+<div style="display: inline_block">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriadanilenko&show_icons=true&theme=calm&layout=compact" alt="victoriadanilenko" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriadanilenko&show_icons=true&theme=calm" alt="victoriadanilenko" /></p>
 
