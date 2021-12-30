@@ -1,20 +1,21 @@
+</p align="center">
+<img src="https://github.com/victoriadanilenko/victoriadanilenko/blob/main/images/newbg(1).png" />
+
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm Victoria</h1> 
 <h3 align="center">A passionate Front End Developer from Russia ❤️‍🔥</h3>
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=profile+views&style=flat-square&color=yellowgreen" alt="victoriadanilenko" /></p>
  
-<p align="center">
- 
+<!-- <p align="center">
  <img src="https://badges.pufler.dev/visits/victoriadanilenko/victoriadanilenko"/> 
- <!-- <img src="https://badges.pufler.dev/years/victoriadanilenko"/> -->
+ <img src="https://badges.pufler.dev/years/victoriadanilenko"/>
  <img src="https://badges.pufler.dev/repos/victoriadanilenko"/>
  <img src="https://badges.pufler.dev/commits/monthly/victoriadanilenko" />
-
-</p>
+</p> -->
 </div>
 
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 - 🌱 I’m currently learning **Node.js**
 
