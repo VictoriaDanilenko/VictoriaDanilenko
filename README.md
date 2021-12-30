@@ -47,6 +47,6 @@
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriadanilenko&show_icons=true&theme=calm&layout=compact" alt="victoriadanilenko" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victoriadanilenko&show_icons=true&theme=calm" alt="victoriadanilenko" /></p>
-</div>
-![snake gif](https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/output/github-contribution-grid-snake.gif)
 
+![snake gif](https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/output/github-contribution-grid-snake.gif)
+</div>
