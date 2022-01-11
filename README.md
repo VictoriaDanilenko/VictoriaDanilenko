@@ -7,9 +7,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=profile+views&style=flat-square&color=green" alt="victoriadanilenko" /></p>
 
 <p align="left">
-<img src="https://badges.pufler.dev/visits/victoriadanilenko/victoriadanilenko"/>
+<!-- <img src="https://badges.pufler.dev/visits/victoriadanilenko/victoriadanilenko"/> -->
 <!-- <img src="https://badges.pufler.dev/years/victoriadanilenko"/> -->
-<img src="https://badges.pufler.dev/repos/victoriadanilenko"/>
+<!-- <img src="https://badges.pufler.dev/repos/victoriadanilenko"/> -->
 <!-- <img src="https://badges.pufler.dev/commits/monthly/victoriadanilenko" /> -->
 </p>
 
