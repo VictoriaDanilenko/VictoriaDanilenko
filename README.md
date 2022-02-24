@@ -18,7 +18,7 @@
 
 
 
-- 🌱 I’m currently learning **Node.js**
+<!-- - 🌱 I’m currently learning **Node.js** -->
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
