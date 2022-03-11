@@ -20,7 +20,7 @@
 
 <!-- - 🌱 I’m currently learning **Node.js** -->
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, SAP**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📄 Know about my experiences **[CV](https://victoriadanilenko.github.io/CV/)**
 
