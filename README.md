@@ -24,7 +24,7 @@
 
 <!-- - 📄 Know about my experiences **[CV](https://victoriadanilenko.github.io/CV/)** -->
 
-- ⚡ Fun fact **My last meal on Earth would be... Tiramisù! :innocent:**
+- ⚡ Fun fact - **My last meal on Earth would be... Tiramisù! :innocent:**
 
 <div>
 <h3 align="left">Reach me on:</h3> 
