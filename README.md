@@ -1,7 +1,7 @@
 </p align="center">
 <!-- <img src="https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/main/Screenshot-1-1210x642.png" width="250" /> -->
 
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm Victoria❤️‍🔥</h1> 
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm Victoria ❤️‍🔥</h1> 
 <!-- <h3 align="center">A passionate Front End Developer ❤️‍🔥</h3> -->
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=profile+views&style=flat-square&color=green" alt="victoriadanilenko" /></p>
@@ -20,9 +20,9 @@
 
 <!-- - 🌱 I’m currently learning **Node.js** -->
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+<!-- - 💬 Ask me about **HTML, CSS, JavaScript, React** -->
 
-- 📄 Know about my experiences **[CV](https://victoriadanilenko.github.io/CV/)**
+<!-- - 📄 Know about my experiences **[CV](https://victoriadanilenko.github.io/CV/)** -->
 
 - ⚡ Fun fact **My last meal on Earth would be... Tiramisù! :innocent:**
 
