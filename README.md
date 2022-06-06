@@ -29,7 +29,7 @@
 <div>
 <h3 align="left">Reach me on:</h3> 
  <a href = "mailto:victoriadanilenko.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="http://t.me/vifrontender" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ <a href="http://t.me/itvictoria" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <!--   <a href="https://www.linkedin.com/in/victoria-d-1060181bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>        -->
   <a href="https://join.skype.com/invite/LlcFaPX4cavJ" target="_blank"><img src="https://img.shields.io/badge/Skype-019DDC?style=for-the-badge&logo=skype&logoColor=white"></a> 
 </div>
