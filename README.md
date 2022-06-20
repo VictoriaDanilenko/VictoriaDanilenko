@@ -25,10 +25,10 @@
 <!-- - 📄 Know about my experiences **[CV](https://victoriadanilenko.github.io/CV/)** -->
 
 - Know about my project experiences:
-<br/>🍦 **[ICECREAM](https://victoriadanilenko.github.io/GoIt_TeamProject_ICECREAM/)** (HTML5, CSS3, SASS, JavaScript, Parcel, GIT)
+<br/>🍦 **[ICECREAM](https://victoriadanilenko.github.io/GoIt_TeamProject_ICECREAM/)** (HTML5, SASS, JavaScript, Parcel, GIT)
 <br/>Mobile-first adaptive and responsive landing page to introduce ice cream products and attract clients. 
-<br/>🌐 **[WebStudio](https://victoriadanilenko.github.io/goit-markup-hw-08/index.html)** (HTML5, CSS3, SASS, JavaScript, Parcel, GIT)
-<br/>Mobile-first adaptive and responsive landing page to introduce ice cream products and attract clients.
+<br/>🌐 **[WebStudio](https://victoriadanilenko.github.io/goit-markup-hw-08/index.html)** (HTML5, SASS, JavaScript, Parcel, GIT)
+<br/>Mobile-first adaptive and responsive landing page to promote WebStudio.
 <br/>🎭 **[EVENT BOOSTER](https://victoriadanilenko.github.io/goit-markup-hw-08/index.html)** (HTML5, SASS, JavaScript, Parcel, GIT, Handlebars, RestApi,
 Local Storage, Redux)
 <br/>Team project for choosing your lovely events in any countries.
