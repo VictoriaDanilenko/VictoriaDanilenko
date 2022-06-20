@@ -38,7 +38,7 @@
 Local Storage, Redux)
 <br/>Team project for choosing your lovely events in any countries.
 
-<br/>🍿 **[WhatToWatch](https://vd-goit-react-hw-05-movies.netlify.app/)** (HTML5, SASS, JavaScript, React)
+<br/>🍿 **[WhatToWatch](https://vd-goit-react-hw-05-movies.netlify.app/)** (HTML5, CSS, JavaScript, React, Netlify)
 <br/>Find what to watch today!
 
 ⚡ Fun fact - **My last meal on Earth would be... Tiramisù! :innocent:**
