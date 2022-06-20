@@ -25,7 +25,7 @@
 <!-- - 📄 Know about my experiences **[CV](https://victoriadanilenko.github.io/CV/)** -->
 
 <!-- - Know about my project experiences: -->
-## Know about my project experiences ⬇
+### Know about my project experiences ⬇
 <h2 align="left"><img src="https://media.giphy.com/media/2ZqbXchPbD1YqvxeCWs/giphy.gif"></h2>
 
 <br/>🍦 **[ICECREAM](https://victoriadanilenko.github.io/GoIt_TeamProject_ICECREAM/)** (HTML5, SASS, JavaScript, Parcel, GIT)
@@ -36,7 +36,7 @@
 Local Storage, Redux)
 <br/>Team project for choosing your lovely events in any countries.
 
-- ⚡ Fun fact - **My last meal on Earth would be... Tiramisù! :innocent:**
+⚡ Fun fact - **My last meal on Earth would be... Tiramisù! :innocent:**
 
 <div>
 <h3 align="left">Reach me on:</h3> 
