@@ -2,8 +2,8 @@
 <!-- <img src="https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/main/Screenshot-1-1210x642.png" width="250" /> -->
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm Victoria </h1> 
-<h3 align="center">A passionate Front End Developer ❤️‍🔥</h3>
-<h3 align="center">📝 [CV](https://victoriadanilenko.github.io/CV/)</h3>
+<h3 align="center">A passionate Front End Developer from Russia ❤️‍🔥</h3>
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=profile+views&style=flat-square&color=green" alt="victoriadanilenko" /></p>
 
@@ -24,7 +24,8 @@
 <!-- - 💬 Ask me about **HTML, CSS, JavaScript, React** -->
 
 <!-- - Know about my project experiences: -->
-### To know about my project experiences ⬇
+#### 📝 **Open my [CV](https://victoriadanilenko.github.io/CV/)** or check my project experiences below ⬇
+
 <h2 align="left"><img src="https://media.giphy.com/media/2ZqbXchPbD1YqvxeCWs/giphy.gif"></h2> 
 
 <br/>🍦 **[ICECREAM](https://victoriadanilenko.github.io/GoIt_TeamProject_ICECREAM/)** (HTML5, SASS, JavaScript, Parcel, GIT)
