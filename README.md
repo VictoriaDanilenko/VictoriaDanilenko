@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm Victoria </h1> 
 <h3 align="center">A passionate Front End Developer ❤️‍🔥</h3>
-<h3 align="center">📝 **My [CV](https://victoriadanilenko.github.io/CV/)**</h3>
+<h3 align="center">📝 [CV](https://victoriadanilenko.github.io/CV/)</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=profile+views&style=flat-square&color=green" alt="victoriadanilenko" /></p>
 
