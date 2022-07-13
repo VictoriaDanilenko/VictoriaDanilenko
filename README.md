@@ -3,6 +3,7 @@
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> , I'm Victoria </h1> 
 <h3 align="center">A passionate Front End Developer ❤️‍🔥</h3>
+<h3 align="center">📝 **My [CV](https://victoriadanilenko.github.io/CV/)**</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=victoriadanilenko&label=profile+views&style=flat-square&color=green" alt="victoriadanilenko" /></p>
 
@@ -25,7 +26,6 @@
 <!-- - Know about my project experiences: -->
 ### To know about my project experiences ⬇
 <h2 align="left"><img src="https://media.giphy.com/media/2ZqbXchPbD1YqvxeCWs/giphy.gif"></h2> 
-<br/>📝 **[Open my CV](https://victoriadanilenko.github.io/CV/)**
 
 <br/>🍦 **[ICECREAM](https://victoriadanilenko.github.io/GoIt_TeamProject_ICECREAM/)** (HTML5, SASS, JavaScript, Parcel, GIT)
 <br/>Mobile-first adaptive and responsive landing page to introduce ice cream products and attract clients. 
@@ -40,12 +40,14 @@ Local Storage, Redux)
 <br/>🍿 **[WhatToWatch](https://vd-goit-react-hw-05-movies.netlify.app/)** (HTML5, CSS, JavaScript, React, Netlify)
 <br/>Find what to watch today!
 
+<!-- <br/>📝 **Also you can check my [CV](https://victoriadanilenko.github.io/CV/)** -->
+
 ⚡ Fun fact - **My last meal on Earth would be... Tiramisù! :innocent:**
 <div>
 <h3 align="left">Reach me on:</h3> 
  <a href = "mailto:victoriadanilenko.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="http://t.me/itvictoria" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<!--   <a href="https://www.linkedin.com/in/victoria-d-1060181bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>        -->
+<a href="https://www.linkedin.com/in/victoria-d-1060181bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://join.skype.com/invite/LlcFaPX4cavJ" target="_blank"><img src="https://img.shields.io/badge/Skype-019DDC?style=for-the-badge&logo=skype&logoColor=white"></a> 
 </div>
 
