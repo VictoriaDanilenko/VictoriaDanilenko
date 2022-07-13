@@ -21,11 +21,11 @@
 <!-- - 🌱 I’m currently learning **Node.js** -->
 
 <!-- - 💬 Ask me about **HTML, CSS, JavaScript, React** -->
- - 📄 Know about my experiences **[CV](https://victoriadanilenko.github.io/CV/)**
 
 <!-- - Know about my project experiences: -->
 ### To know about my project experiences ⬇
-<h2 align="left"><img src="https://media.giphy.com/media/2ZqbXchPbD1YqvxeCWs/giphy.gif"></h2>
+<h2 align="left"><img src="https://media.giphy.com/media/2ZqbXchPbD1YqvxeCWs/giphy.gif"></h2> 
+<br/>📝 **[Open my CV](https://victoriadanilenko.github.io/CV/)**
 
 <br/>🍦 **[ICECREAM](https://victoriadanilenko.github.io/GoIt_TeamProject_ICECREAM/)** (HTML5, SASS, JavaScript, Parcel, GIT)
 <br/>Mobile-first adaptive and responsive landing page to introduce ice cream products and attract clients. 
@@ -41,7 +41,6 @@ Local Storage, Redux)
 <br/>Find what to watch today!
 
 ⚡ Fun fact - **My last meal on Earth would be... Tiramisù! :innocent:**
-
 <div>
 <h3 align="left">Reach me on:</h3> 
  <a href = "mailto:victoriadanilenko.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
