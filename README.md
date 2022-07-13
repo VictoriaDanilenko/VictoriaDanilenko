@@ -24,7 +24,7 @@
 <!-- - 💬 Ask me about **HTML, CSS, JavaScript, React** -->
 
 <!-- - Know about my project experiences: -->
-#### 📝 **Open my [CV](https://victoriadanilenko.github.io/CV/)** or check my project experiences below ⬇
+### **Open my [CV](https://victoriadanilenko.github.io/CV/)** or check my project experiences below ⬇
 
 <h2 align="left"><img src="https://media.giphy.com/media/2ZqbXchPbD1YqvxeCWs/giphy.gif"></h2> 
 
@@ -40,8 +40,6 @@ Local Storage, Redux)
 
 <br/>🍿 **[WhatToWatch](https://vd-goit-react-hw-05-movies.netlify.app/)** (HTML5, CSS, JavaScript, React, Netlify)
 <br/>Find what to watch today!
-
-<!-- <br/>📝 **Also you can check my [CV](https://victoriadanilenko.github.io/CV/)** -->
 
 ⚡ Fun fact - **My last meal on Earth would be... Tiramisù! :innocent:**
 <div>
