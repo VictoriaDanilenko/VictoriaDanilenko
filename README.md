@@ -21,8 +21,7 @@
 <!-- - 🌱 I’m currently learning **Node.js** -->
 
 <!-- - 💬 Ask me about **HTML, CSS, JavaScript, React** -->
-
-<!-- - 📄 Know about my experiences **[CV](https://victoriadanilenko.github.io/CV/)** -->
+ - 📄 Know about my experiences **[CV](https://victoriadanilenko.github.io/CV/)**
 
 <!-- - Know about my project experiences: -->
 ### To know about my project experiences ⬇
