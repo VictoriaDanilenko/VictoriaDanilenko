@@ -24,7 +24,8 @@
 <!-- - 💬 Ask me about **HTML, CSS, JavaScript, React** -->
 
 <!-- - Know about my project experiences: -->
-### **Open my [CV](https://victoriadanilenko.github.io/CV/)** or check my project experiences below ⬇
+<!-- ### **Open my [CV](https://victoriadanilenko.github.io/CV/)** or check my project experiences below ⬇ -->
+### Сheck my project experiences below ⬇
 
 <h2 align="left"><img src="https://media.giphy.com/media/2ZqbXchPbD1YqvxeCWs/giphy.gif"></h2> 
 
