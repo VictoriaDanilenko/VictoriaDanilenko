@@ -83,7 +83,7 @@ Local Storage, Redux)
 <!-- <h2 align="left">My Contribution Graph<img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2> -->
   
-![snake gif](https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/output/github-contribution-grid-snake.gif) -->
 
 <!-- <img align="left" src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"> -->
 
